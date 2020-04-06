@@ -1,0 +1,8 @@
+Buildfile: F:\Desktop\sf-ant\sample\build.xml
+
+retrieveUnpackaged:
+
+BUILD FAILED
+F:\Desktop\sf-ant\sample\build.xml:34: Invalid username, password, security token; or user locked out.
+
+Total time: 1 second
